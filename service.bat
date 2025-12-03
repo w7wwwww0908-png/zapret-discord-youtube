@@ -754,3 +754,13 @@ exit /b
 :PrintYellow
 powershell -Command "Write-Host \"%~1\" -ForegroundColor Yellow"
 exit /b
+roblox.com
+css.rbxcdn.com
+js.rbxcdn.com
+ecsv2.roblox.com
+metrics.roblox.com
+apis.roblox.com
+realtime-signalr.roblox.com
+games.roblox.com
+tr.rbxcdn.com
+thumbnails.roblox.com
